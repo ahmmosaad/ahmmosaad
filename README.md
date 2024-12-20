@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @ahmmosaad
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Mobile Application Developmet [Flutter, IOS and Android ]
-- 💞️ I’m looking to collaborate on Cross-Platform apps
+- 👀 I’m interested in Data Science
+- 🌱 I’m Ex. Mobile Application Developer [Flutter, IOS and Android ]
+- 💞️ I’m looking to collaborate on Data Analysis Projects
+
+  [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
        
 
